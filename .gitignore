@@ -4,3 +4,4 @@ scripts/hadolint
 scripts/kubectl
 kubectl.bkp
 scripts/shellcheck
+app/Dockerfile
